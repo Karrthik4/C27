@@ -1,2 +1,7 @@
 # angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+
+
+OutPut Link:
+
+
+https://karrthik4.github.io/C27/
